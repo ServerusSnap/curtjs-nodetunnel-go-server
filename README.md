@@ -2,7 +2,7 @@
 # Addon repo link: https://github.com/curtjs/nodetunnel
 
 
-#RUN
+# RUN
 1. git clone https://github.com/ServerusSnap/curtjs-nodetunnel-go-server.git
 2. cd curtjs-nodetunnel-go-server
 3. go run cmd/server/main.go
