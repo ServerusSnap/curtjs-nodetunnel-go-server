@@ -3,9 +3,9 @@
 
 
 # RUN
-```Bash
-1. git clone https://github.com/ServerusSnap/curtjs-nodetunnel-go-server.git
-2. cd curtjs-nodetunnel-go-server
-3. go run cmd/server/main.go
+```bash
+git clone https://github.com/ServerusSnap/curtjs-nodetunnel-go-server.git
+cd curtjs-nodetunnel-go-server
+go run cmd/server/main.go
 
 # Go version: 1.25.0
